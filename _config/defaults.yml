@@ -1,0 +1,50 @@
+---
+Name: xhtmleditor-config
+After:
+  - 'framework/*'
+  - 'cms/*'
+---
+
+XHTMLEditorConfig:
+  buttons:
+    1: 
+      - bold
+      - italic
+      - underline
+      - strikethrough
+      - separator
+      - justifyleft
+      - justifycenter
+      - justifyright
+      - justifyfull
+      - formatselect
+      - separator
+      - bullist
+      - numlist
+      - outdent
+      - indent
+      - blockquote
+      - hr
+      - charmap
+    2:
+      - undo
+      - redo
+      - separator
+      - cut
+      - copy
+      - paste
+      - pastetext
+      - pasteword
+      - separator
+      - advcode
+      - search
+      - replace
+      - selectall
+      - visualaid
+      - separator
+      - tablecontrols
+    3:
+  options:
+    paste_text_sticky_default: true
+
+
