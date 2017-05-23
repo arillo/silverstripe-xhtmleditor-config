@@ -13,6 +13,7 @@ After:
   - 'xhtmleditor-config'
 ---
 XHTMLEditorConfig:
+  identifier: cms
   buttons:
     1: 
       - undo
