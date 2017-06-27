@@ -1,4 +1,4 @@
-# XHTMLEditorConfig
+# SilverStripe XHTMLEditorConfig
 
 Small module to configure the CMS HTMLEditor via a yml file.
 
