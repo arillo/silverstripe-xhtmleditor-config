@@ -6,7 +6,7 @@ Just create a htmleditor.yml file in your mysite/_config folder and configure th
 
 See this example file as a reference:
 
-```
+```yml
 ---
 Name: mysite-editor
 After:
